@@ -1,0 +1,58 @@
+.tittle {
+    color: rgb(83, 209, 167);
+    font-size: 74px;
+    text-align: center;
+}
+
+.PopOutButtons {
+    width: 150px;
+    height: 50px;
+    color: blue;
+    background-color :rgb(85, 255, 150);
+    border-color: rgb(60, 189, 178);
+    font-size: 17px;
+    cursor: pointer;
+    margin-left: -6px;
+    margin-top: 1px;
+}
+
+.PopOutButtons:hover {
+    width: 171px;
+    height: 50px;
+    color: rgb(0, 117, 35);
+    background-color :rgb(34, 248, 195);
+    border-color: rgb(60, 189, 178);
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.Buttons {
+    width: 150px;
+    height: 50px;
+    color: blue;
+    background-color :rgb(85, 255, 150);
+    border-color: rgb(60, 189, 178);
+    font-size: 17px;
+    cursor: pointer;
+    margin-left: -6px;
+    
+}
+
+.Buttons:hover {
+    width: 150px;
+    height: 50px;
+    color: rgb(0, 117, 35);
+    background-color :rgb(34, 248, 195);
+    border-color: rgb(60, 189, 178);
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#footer {
+    text-align: center;
+    font-size: 14px;
+}
+
+#body {
+    background-color: rgb(205, 233, 215);
+}
