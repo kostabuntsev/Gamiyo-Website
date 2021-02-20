@@ -39,7 +39,7 @@
 }
 
 .Buttons:hover {
-    width: 150px;
+    width: 152px;
     height: 50px;
     color: rgb(0, 117, 35);
     background-color :rgb(34, 248, 195);
@@ -55,4 +55,9 @@
 
 #body {
     background-color: rgb(205, 233, 215);
+}
+
+.Text {
+    font-size: 18px;
+    text-align: center;
 }
